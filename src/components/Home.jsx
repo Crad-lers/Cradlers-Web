@@ -6,12 +6,12 @@ const Home = () => {
     <section
       id="home"
       className="h-screen bg-cover bg-screen flex flex-col justify-center items-center text-center"
-      style={{ backgroundImage: "url('/wpaper.png')" }}
+      style={{ backgroundImage: "url('/babe.jpg')" }}
     >
       <motion.div
-        className="bg-white bg-opacity-80 rounded-lg p-8 shadow-lg w-full max-w-3xl mx-4"
+        className="bg-white bg-opacity-10 backdrop-blur-md rounded-lg p-8 shadow-lg w-full max-w-3xl mx-4"
         initial={{ opacity: 0, y: 30 }}
-        animate={{ opacity: 1, y: 0 }}
+        animate={{ opacity: 0.5, y: 0 }}
         transition={{ duration: 1.2, ease: "easeOut" }}
       >
         <motion.h2

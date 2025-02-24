@@ -20,7 +20,7 @@ const Navbar = () => {
         isScrolled ? 'py-2' : 'py-4'
       }`}
       style={{
-        backgroundColor: isScrolled ? 'rgb(57, 204, 204)' : 'gray'
+        backgroundColor: isScrolled ? 'rgb(57, 204, 204)' : 'rgba(57, 204, 204, 0.5)',
       }}
       initial={{ y: -80, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
