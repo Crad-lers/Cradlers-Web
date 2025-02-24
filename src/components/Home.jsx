@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="h-screen bg-cover bg-center flex flex-col justify-center items-center text-center"
+      className="h-screen bg-cover bg-screen flex flex-col justify-center items-center text-center"
       style={{ backgroundImage: "url('/wpaper.png')" }}
     >
       <motion.div
