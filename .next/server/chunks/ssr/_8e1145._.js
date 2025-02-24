@@ -60,7 +60,7 @@ function Home() {
                                     className: "flex items-center space-x-2",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                            src: "/images/cradlers-high-resolution-logo.png",
+                                            src: "/globe.svg",
                                             alt: "Cradlers Logo",
                                             width: 40,
                                             height: 40
@@ -227,7 +227,7 @@ function Home() {
                                             className: "text-center p-6 bg-[#E0F7F5] rounded-lg shadow-md",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                    src: "/icons/intelligent-motion.svg",
+                                                    src: "/globe.svg",
                                                     alt: "Intelligent Motion",
                                                     width: 100,
                                                     height: 100
@@ -261,7 +261,7 @@ function Home() {
                                             className: "text-center p-6 bg-[#E0F7F5] rounded-lg shadow-md",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                    src: "/icons/safety-certified.svg",
+                                                    src: "/globe.svg",
                                                     alt: "Safety Certified",
                                                     width: 100,
                                                     height: 100
@@ -295,7 +295,7 @@ function Home() {
                                             className: "text-center p-6 bg-[#E0F7F5] rounded-lg shadow-md",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                    src: "/icons/mobile-app.svg",
+                                                    src: "/globe.svg",
                                                     alt: "Mobile App Control",
                                                     width: 100,
                                                     height: 100

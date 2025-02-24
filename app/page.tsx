@@ -16,7 +16,7 @@ export default function Home() {
         <header className="bg-white shadow-md fixed w-full top-0 z-50">
           <nav className="max-w-6xl mx-auto flex justify-between items-center py-4 px-6">
             <div className="flex items-center space-x-2">
-              <Image src="/images/cradlers-high-resolution-logo.png" alt="Cradlers Logo" width={40} height={40} />
+              <Image src="/globe.svg" alt="Cradlers Logo" width={40} height={40} />
               <span className="text-2xl font-bold text-[#30D5C8]">Cradlers</span>
             </div>
             <ul className="hidden md:flex space-x-8 text-gray-700">
@@ -50,17 +50,17 @@ export default function Home() {
             <h2 className="text-4xl font-bold text-center mb-12">Smart Features</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="text-center p-6 bg-[#E0F7F5] rounded-lg shadow-md">
-                <Image src="/icons/intelligent-motion.svg" alt="Intelligent Motion" width={100} height={100} />
+                <Image src="/globe.svg" alt="Intelligent Motion" width={100} height={100} />
                 <h3 className="text-xl font-semibold mb-2">Intelligent Motion</h3>
                 <p>Adapts to your baby's sleep patterns for a peaceful nap.</p>
               </div>
               <div className="text-center p-6 bg-[#E0F7F5] rounded-lg shadow-md">
-                <Image src="/icons/safety-certified.svg" alt="Safety Certified" width={100} height={100} />
+                <Image src="/globe.svg" alt="Safety Certified" width={100} height={100} />
                 <h3 className="text-xl font-semibold mb-2">Safety Certified</h3>
                 <p>Built with safety in mind, so you can rest easy.</p>
               </div>
               <div className="text-center p-6 bg-[#E0F7F5] rounded-lg shadow-md">
-                <Image src="/icons/mobile-app.svg" alt="Mobile App Control" width={100} height={100} />
+                <Image src="/globe.svg" alt="Mobile App Control" width={100} height={100} />
                 <h3 className="text-xl font-semibold mb-2">Mobile App Control</h3>
                 <p>Control and monitor from anywhere with the mobile app.</p>
               </div>
